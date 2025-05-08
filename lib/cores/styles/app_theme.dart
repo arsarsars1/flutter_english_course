@@ -29,7 +29,7 @@ class AppTheme {
       // primaryVariant: AppColors.lightPrimaryVariantColor,
       // secondary: AppColors.lightSecondaryColor,
       // onPrimary: AppColors.lightOnPrimaryColor,
-    ).copyWith(background: AppColors.lightBackgroundColor),
+    ).copyWith(surface: AppColors.lightBackgroundColor),
     //
     // bottomAppBarColor: Colors.white,
     //
